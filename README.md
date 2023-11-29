@@ -4,9 +4,9 @@ Auto Parking implementation on ESP8266
 ## Technologies Used
 
 - **ESP8266:** 📡 
-![ESP8266](./img/NodeMCU-ESP8266-Pinout.jpg)
+  - ![ESP8266](./img/NodeMCU-ESP8266-Pinout.jpg)
 - **LCD Module Display 16x2**
-  ![LCD](./img/lcd.jpg)
+  - ![LCD](./img/lcd.jpg)
 - **Arduino:** 🤖
 - **WiFi:** 📶
 - **C++:** 🐦
